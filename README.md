@@ -3,7 +3,7 @@ This project studies the possibilities of forecasting stock market prices of fir
 
 
 <h3> Working of the Project </h3>
-This Project as a file called as "tweets_scrapping.py"; Use this file to scrape tweets off Twitter by passing the the keyword and the timeframe.</br>
+This Project as a file called as "Tweets_Scrapping_Script.py"; Use this file to scrape tweets off Twitter by passing the the keyword and the timeframe.</br>
 The tweets scrapped off Twitter is then matched with the corresponding News feed and both of which is matched with the corresponding stock price in that timeframe.</br> 
 Used ARIMA for time series analysis. </br>
 Files as "prject_Tesla.R" and "project_moderna.R" contains the entire code with importing the dataset to creating a wordcloud and analysing and preidcting the stock for a future event. </br>
